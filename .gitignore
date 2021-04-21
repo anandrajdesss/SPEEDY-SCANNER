@@ -1,0 +1,7 @@
+# gitignore
+venv/*
+.env
+db.*
+media/*
+*.png
+*.jpeg
